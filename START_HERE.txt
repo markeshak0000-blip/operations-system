@@ -1,0 +1,25 @@
+OPERATIONS SYSTEM — READY-TO-ADD BUNDLE
+
+Use this bundle as the clean starting package for the Operations System project.
+
+FILES:
+- index.html                 Main application source (cleaned; no demo operations)
+- manifest.json              App/PWA metadata and icon reference
+- assets/app_icon.png        Final Operations System app icon
+- assets/logo.png            Infinity MEN2 logo
+- assets/developer.jpg       Developer portrait
+- developer.json             Developer/support/brand metadata
+
+IMPORTANT:
+1. Keep all files and folders in their current relative paths.
+2. The application must start with ZERO sample/demo operations and ZERO fake balances.
+3. Do not add seeded demo data unless explicitly requested.
+4. Keep the supplied developer identity and branding intact.
+5. Use assets/app_icon.png as the application icon.
+6. Use assets/logo.png for Infinity MEN2 branding.
+7. Use assets/developer.jpg in About Developer.
+8. For WhatsApp support, open the conversation directly using the configured WhatsApp URL without pre-filled text.
+9. Preserve the existing functional behavior of the application while using this bundle as the baseline.
+
+FOR MITA AI:
+"Use this exact bundle as the source of truth. Import the files, preserve the project structure, wire the provided assets, and execute/run the application. Do not invent sample operations or sample financial data."

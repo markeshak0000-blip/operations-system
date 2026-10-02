@@ -1,0 +1,17 @@
+{
+  "name": "Operations System",
+  "short_name": "Operations",
+  "description": "Professional operations and financial movement tracking system by Infinity MEN2.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "./assets/app_icon.png",
+      "sizes": "1254x1254",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
